@@ -36,3 +36,32 @@
     transform: rotate(360deg);
   }
 }
+
+html {
+  height: 100%;
+}
+
+body {
+  height: 100%;
+  background: #64ffda;
+  color: #0a192f;
+  font-family: 'Raleway', Arial, sans-serif;
+}
+
+#app {
+  height: 100%;
+}
+
+a {
+  color: #4e4a46;
+  text-decoration: none;
+}
+
+a:hover, a:focus {
+  color: #c94e50;
+}
+
+h1 {
+  font-weight: 800;
+  font-size: 3.75em;
+}
